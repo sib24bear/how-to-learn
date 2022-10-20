@@ -27,7 +27,7 @@ The project is a one-page landing. Dedicated to learning, the page provides vari
 
 ---
 
-# Научится учится
+# Научится учиться
 
 ## «Научиться учиться» - проектная работа по профессии веб-разработчик [Яндекс Практикум](https://praktikum.yandex.ru "Яндекс Практикум")
 
